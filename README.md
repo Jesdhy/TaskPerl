@@ -1,5 +1,5 @@
 # 🌍👋 Hello world in perl 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/83823abe-41ee-4c46-8d74-46ead7c7f431)
 
 ## 📘 About The Project
 The project was developed on Ubuntu and prints the message 'Hello World' to the console using Perl.
@@ -36,7 +36,7 @@ perl -v
    ```
 
 ## 🐳 Running with docker
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/2f3a733f-6fcd-44d8-a383-d2f38de0f32a)
 
 1.- Making Docker Pull or Build docker image
 
@@ -48,7 +48,6 @@ perl -v
  ```sh
    docker run -it jessdhy/sumperl
    ```
-Where <any-name> is the name or tag you gave the image in the previous step.
 
 
 ## 🤝 Contributing
