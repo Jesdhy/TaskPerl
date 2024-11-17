@@ -1,12 +1,12 @@
 # 🌍👋 Hello world in perl 
 
 ## 📘 About The Project
-The project was developed on Ubuntu and prints the message 'Hello World' to the console using Perl.
+The project was developed on Ubuntu and prints the message 'Hello World' to the console using php.
 
 ## ⚠️ **¡IMPORTANT!** ⚠️
 
-- The **main** branch contains the project with Docker setup.
-- The **railway-deployment** branch contains the project configured for Railway. 
+- The **main** branch contains the project in **perl** with Docker setup.
+- The **railway-deployment** branch contains the project in **php** configured for Railway. 
 
 
 ## 📑 Table of Contents
@@ -16,15 +16,15 @@ The project was developed on Ubuntu and prints the message 'Hello World' to the 
   - [🔧 Prerequisites](#prerequisites)
   - [📥 Installation](#installation)
   - [⚙️ Running](#running)
-  - [🐳 Running with Docker](#running-with-docker)
+  - [🚀 Running in Railway](#running-with-railway)
 - [🤝 Contributing](#contributing)
 
 ## 🚀 Getting Started
 ## 🔧 Prerequisites
-**Perl**: This project requires **Perl 5.34.0**. Make sure you have this version installed on your system.
-You can check your Perl version by running:
+**php**: This project requires **php 8.1.2**. Make sure you have this version installed on your system.
+You can check your php version by running:
 ```bash
-perl -v
+php -version
  ```
 ## 📥 Installation
 
@@ -37,22 +37,18 @@ perl -v
 ## ⚙️ Running
 
   ```sh
-    perl app.pl
+    php index.php
    ```
 
-## 🐳 Running with docker
-![image](https://github.com/user-attachments/assets/64f449cd-7517-4a66-8f41-6f86c0407fab)
+## 🚀 Running in Railway
+1.- Create an account on Railway
+If you don't have an account, sign up for Railway.
 
-1.- Making Docker Pull or Build docker image
+2.- Import the repository into Railway
 
- ```sh
-   docker pull jessdhy/sumperl:latest
-   ```
-2.- Last make a docker run
-
- ```sh
-   docker run -it jessdhy/sumperl
-   ```
+- Log in to Railway and select the New Project option.
+- Click on Deploy from GitHub Repo.
+- Connect your GitHub account (if you haven't already) and select this repository.
 
 
 ## 🤝 Contributing
