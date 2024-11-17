@@ -1,4 +1,5 @@
 # 🌍👋 Hello world in perl 
+![image](https://github.com/user-attachments/assets/e27704e0-424c-4249-aa6f-3c384bfc9b7d)
 
 ## 📘 About The Project
 The project was developed on Ubuntu and prints the message 'Hello World' to the console using php.
@@ -50,6 +51,7 @@ If you don't have an account, sign up for Railway.
 - Click on Deploy from GitHub Repo.
 - Connect your GitHub account (if you haven't already) and select this repository.
 
+![image](https://github.com/user-attachments/assets/553d7cb1-14c8-4bef-b96c-937d63dec6d1)
 
 ## 🤝 Contributing
 Thank you for your interest in contributing to this project! Here are some guidelines for doing so:
