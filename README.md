@@ -5,9 +5,8 @@ The project was developed on Ubuntu and prints the message 'Hello World' to the 
 
 ## ⚠️ **¡IMPORTANT!** ⚠️
 
-- The **main** branch contains the project with Docker setup.
-- The **railway-deployment** branch contains the project configured for Railway. 
-
+- The **main** branch contains the project in **perl** with Docker setup.
+- The **railway-deployment** branch contains the project in **php** configured for Railway. 
 
 ## 📑 Table of Contents
 
