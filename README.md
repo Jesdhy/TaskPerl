@@ -1,8 +1,13 @@
 # 🌍👋 Hello world in perl 
-![image](https://github.com/user-attachments/assets/83823abe-41ee-4c46-8d74-46ead7c7f431)
 
 ## 📘 About The Project
 The project was developed on Ubuntu and prints the message 'Hello World' to the console using Perl.
+
+## ⚠️ **¡IMPORTANT!** ⚠️
+
+- The **main** branch contains the project with Docker setup.
+- The **railway-deployment** branch contains the project configured for Railway. 
+
 
 ## 📑 Table of Contents
 
@@ -36,7 +41,7 @@ perl -v
    ```
 
 ## 🐳 Running with docker
-![image](https://github.com/user-attachments/assets/2f3a733f-6fcd-44d8-a383-d2f38de0f32a)
+![image](https://github.com/user-attachments/assets/64f449cd-7517-4a66-8f41-6f86c0407fab)
 
 1.- Making Docker Pull or Build docker image
 
